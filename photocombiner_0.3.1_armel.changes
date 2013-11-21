@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 06 Feb 2012 09:56:55 +0800
+Source: photocombiner
+Binary: photocombiner
+Architecture: armel
+Version: 0.3.1
+Distribution: unstable
+Urgency: low
+Maintainer: Luo Hua <hua.luo@live.com>
+Changed-By: unknown <>
+Description: 
+ photocombiner - An application for combining your favorite photos.
+Changes: 
+ photocombiner (0.3.1) unstable; urgency=low
+ .
+   * <Add change description here>
+Checksums-Sha1: 
+ 65a5cefbf9231796a4398e9a6e532a9c12eeefc0 71878 photocombiner_0.3.1_armel.deb
+Checksums-Sha256: 
+ d7a32cc959df983c43b9d460509318b6666bfe5d3f51794c6f88a31df77c5c3c 71878 photocombiner_0.3.1_armel.deb
+Files: 
+ 70da6a5607f0a83ad80a9d535cb67c84 71878 user/other optional photocombiner_0.3.1_armel.deb
+Maemo-Display-Name: Photo Combiner
+Maemo-Display-Name-Zh_cn: 美图快拼
